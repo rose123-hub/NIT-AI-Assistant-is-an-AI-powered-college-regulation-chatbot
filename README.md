@@ -3,6 +3,9 @@
 
 - **ROSE JOHN** – Frontend development, RAG implementation, ChromaDB integration, documentation, and project integration.
 - **@jalibaa** – Backend development, FastAPI implementation, Ollama (Llama3) integration, and API development.
+
+
+
 NIT Smart Regulation Assistant is an AI-powered chatbot designed to help students quickly access and understand college regulations. Built using React, FastAPI, ChromaDB, and Ollama Llama3, the system leverages Retrieval-Augmented Generation (RAG) to provide accurate, context-aware answers from official PDF documents.
 
 ## Features
